@@ -2,9 +2,10 @@
 
 ###
 
-<p align="left">👋 Hey there! I'm Dine Babu,  
-a Web Developer passionate about turning ideas into code 🚀  
+<p align="left">Hi there 👋 I'm Dine Babu!  
+I'm a Web Developer passionate about turning ideas into code 🚀  
 Currently exploring AI & ML alongside full-stack development 🌐
+
 </p>
 
 ###
@@ -36,13 +37,25 @@ Currently exploring AI & ML alongside full-stack development 🌐
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
+ 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+ 
 </div>
 
 ###
+<h3>🌐 Connect with me:</h3>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/dinebabu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:dinebabu10@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/DineXCode">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>

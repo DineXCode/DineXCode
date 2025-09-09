@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi there 👋 I'm Dine Babu!  
+<p align="left">Hi there 👋 I'm Dine Babu!  I'm a B.Tech CSE student focused on AI & ML  
 I'm a Web Developer passionate about turning ideas into code 🚀  
 Currently exploring AI & ML alongside full-stack development 🌐
 </p>

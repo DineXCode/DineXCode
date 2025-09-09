@@ -59,3 +59,15 @@ Currently exploring AI & ML alongside full-stack development 🌐
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DineXCode&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineXCode&theme=tokyonight" alt="GitHub streak" height="180" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineXCode&layout=compact&theme=tokyonight" alt="Top Languages" height="180" />
+</p>
